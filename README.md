@@ -1,7 +1,7 @@
 # LTIS - Long-Term Investment System
 
 Strategy spec, pseudocode and backtest notes. Source: Mark Shipman, *Big Money, Little Effort* (Kogan Page, 2008). Implementation: `ltis_backtest.py`.
-![image]([ltis_output/GSPC_signal_close_chart.png) 
+![image]([/ltis_output/GSPC_signal_close_chart.png) 
 
 ## 1. What the book contains
 
